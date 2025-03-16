@@ -84,4 +84,3 @@
 @OneToMany: 1:N 관계에서 사용
 
 mappedBy: 참조 엔티티의 속성명을 정의하며, 참조된 속성을 mappedBy에 전달해야 함
-
